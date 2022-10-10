@@ -1,5 +1,7 @@
 Editors comments:
 
+Workshop 6 edit
+
 Although this short paper is rejected both reviewers very much like the work submitted but believe that the paper would be much better re-developed into a full submission which provides full methodological information as well as detailed synthesis of results. Both are essential for a convincing SLR. We recommend that you consider submitting a fresh long version of the paper to IST for review.
 
 Reviewer #1: -> Summary of the submission.
